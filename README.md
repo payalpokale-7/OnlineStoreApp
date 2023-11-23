@@ -1,1 +1,23 @@
-# OnlineStoreApp
+# plaintext                                                                                      
+   |-- src 
+    |-- components
+        |-- ProductList.js
+        |-- AddProduct.js
+        |-- ProductDetails.js
+        |-- AuthForm.js
+        |-- DrawerMenu.js
+    |-- screens
+        |-- HomeScreen.js
+        |-- AddProductScreen.js
+        |-- ProductDetailsScreen.js
+        |-- AuthScreen.js
+    |-- navigation
+        |-- AppNavigator.js
+        |-- RootNavigator.js
+    |-- redux
+        |-- actions
+            |-- userActions.js
+        |-- reducers
+            |-- userReducer.js
+        |-- store.js
+|-- App.js
